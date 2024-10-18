@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    margin-top: 6vh;
+    color: #4CAF50;
+}
+
+.imgP1 {
+    margin: 3vh 0 3vh 0;
+}
+
+img {
+    width: 80vh;
+    border-radius: 8px;
+}
+
+#tecnologias, #descricao, #motivacao {
+    margin-bottom: 3vh;
+    text-align: center;
+    width: 60vh;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
